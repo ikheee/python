@@ -6,6 +6,7 @@
 # http://localhost:8000/docs
 # http://localhost:8000/redoc
 
+# 실행
 # uvicorn main:app --reload
 
 from typing import Union
