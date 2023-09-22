@@ -1,0 +1,21 @@
+streamlit run main.py
+
+pip install python-dotenv
+pip install langchain
+pip install openai
+pip install streamlit
+pip install ctransformers
+
+https://share.streamlit.io/
+https://docs.streamlit.io/library/api-reference
+https://streamlit.io/
+https://share.streamlit.io/
+https://ai-poet-h3becjmnxhdxcd9rres34v.streamlit.app/
+== https://github.com/ikheee/ai-poet
+
+https://python.langchain.com/docs/get_started
+https://js.langchain.com/docs/get_started
+https://www.npmjs.com/package/langchain
+
+https://huggingface.co/TheBloke/Llama-2-7B-Chat-GGML
+https://github.com/marella/ctransformers
