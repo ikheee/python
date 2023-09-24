@@ -1,0 +1,5 @@
+pip install pypdf
+pip install chromadb
+pip install tiktoken
+pip install streamlit-extras
+
