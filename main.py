@@ -6,6 +6,10 @@
 # http://localhost:8000/docs
 # http://localhost:8000/redoc
 
+# 설치
+# pip install fastapi
+# pip install "uvicorn[standard]"
+
 # 실행
 # uvicorn main:app --reload
 
